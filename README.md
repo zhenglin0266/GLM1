@@ -1,1 +1,1 @@
-# GLM1
+Compare the use of the logit link function with that of the probit link function. For that generate data from a binomial GLM with logit link function and compare the accuracy of the two methods. Then repeat a second time with a model generated from a binomial GLM with probit link function. Do this is a third time with a model that I generate using a link function.
